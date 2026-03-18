@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hola, soy Jason Cain
 
-<!--
-**higo123rd-dotcom/higo123rd-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Programación - 6° año  
+🏫 EPET N°12  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Soy estudiante de programación en formación, aprendiendo desarrollo de software y nuevas tecnologías.  
+Actualmente estoy enfocado en mejorar mis habilidades y crear mis primeros proyectos.
+
+---
+
+## 💻 Tecnologías que estoy aprendiendo
+
+- 🟦 HTML
+- 🎨 CSS
+- ⚙️ JavaScript
+- 🐍 Python
+- ☕ Java
+- 🗄️ SQLite
+
+---
+
+## 📚 Actualmente
+
+📖 Aprendiendo:
+- Programación orientada a objetos (POO)
+- Bases de datos
+- Desarrollo web
+
+🛠️ Próximamente:
+- Mis primeros proyectos personales
+- Aplicaciones web
+- Programas en Python
+
+---
+
+## 🎯 Objetivo
+
+Seguir aprendiendo programación y desarrollar proyectos reales para mejorar mis habilidades y experiencia.
+
+---
+
+## 📫 Contacto
+
+📧 Email: higo123rd@gmail.com
+📱 Instagram: @765cain 
+💼 GitHub: https://github.com/ jason cain
+
